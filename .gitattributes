@@ -2,4 +2,6 @@ public/* linguist-vendored
 vendor/* linguist-vendored
 site/* linguist-vendored
 
+*.js linguist-detectable=false
+*.php linguist-detectable=true 
 
