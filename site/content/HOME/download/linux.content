@@ -1,0 +1,16 @@
+<div class="col-md-4 col-sm-4">
+    <div class="service-box-wrap">
+        <div class="service-icon-wrap">
+            <i class="fa fa-linux fa-2x"></i>
+        </div> <!-- /.service-icon-wrap -->
+        <div class="service-cnt-wrap">
+            <h3 lang="en"class="service-title">Linux</h3>
+            <h3 lang="fa"class="service-title">لینوکس</h3>
+            <a rel="nofollow" href="http://download.memorito.ir/linux/Memorito-0.93-x86_64.AppImage.7z" target="_blank">AppImage version(~53.0 MB portable)</a>
+            <br>
+            <a rel="nofollow" href="http://download.memorito.ir/linux/memorito-online-installer.run" target="_blank">GUI Installer (~26.0 MB online)</a>
+            <br>
+            <a rel="nofollow" href="http://download.memorito.ir/linux/memorito-offline-installer-0.93.run" target="_blank">GUI Installer (~63.1 MB ofline)</a>
+        </div> <!-- /.service-cnt-wrap -->
+    </div> <!-- /.service-box-wrap -->
+</div> <!-- /.col-md-4 -->

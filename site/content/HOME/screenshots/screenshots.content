@@ -1,0 +1,27 @@
+<section class="dark-content portfolio" style="direction: ltr !important;">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-header">
+                    <h2 lang="en" class="section-title">Memorito Gallery</h2>
+                    <p lang="en" class="section-desc">Everything you need to know about Memorito.</p>
+                    <h2 lang="fa" class="section-title">گالری مموریتو</h2>
+                    <p lang="fa" class="section-desc">هرچیزی که نیازه در مورد مموریتو بدونی</p>
+                </div>
+                <!-- /.section-header -->
+            </div>
+            <!-- /.col-md-12 -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+
+    <div id="portfolio-carousel" class="portfolio-carousel portfolio-holder">
+
+        @for(int i=1; i
+        <10; i+=1) { @input( "site/content/HOME/screenshots/screenshot$[i].content") } <!-- -->
+
+            <!-- /#owl-demo -->
+    </div>
+</section>
+<!-- /.portfolio-holder -->

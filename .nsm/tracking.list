@@ -1,0 +1,27 @@
+'index'
+'Memorito'
+'site/template/index.template'
+
+'blog'
+'Memorito - Blog'
+'site/template/blog.template'
+
+'post'
+'post'
+'site/template/post.template'
+
+'post-linux'
+'Linux'
+'site/template/post-linux.template'
+
+'post-windows'
+'windows'
+'site/template/post-windows.template'
+
+'post-android'
+'Android'
+'site/template/post-android.template'
+
+'notfound'
+'Oops'
+'site/template/notfound.template'

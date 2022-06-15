@@ -1,0 +1,5 @@
+<!-- Head Title -->
+@input("site/content/BLOG/header.content")
+
+<!-- Content -->
+@input("site/content/BLOG/blog-posts.content")

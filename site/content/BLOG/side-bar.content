@@ -1,0 +1,11 @@
+<div class="sidebar">
+    <div class="sidebar-widget">
+        <h5 lang="en" class="widget-title">Recent Posts</h5>
+        <h5 lang="fa" class="widget-title">جدیدترین‌های وبلاگ</h5>
+
+        @input("site/content/BLOG/side-bar/items.content")
+
+    </div>
+    <!-- /.sidebar-widget -->
+</div>
+<!-- /.sidebar -->

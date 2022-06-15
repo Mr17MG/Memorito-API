@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    @input("site/content/COMMON/html-head.content")
+
+</head>
+
+<body lang="en ">
+    <!-- Header & Responsive Menu -->
+    @input("site/content/COMMON/nav-menu/nav-menu.content")
+
+    @content
+
+    <!-- Footer -->
+    @input("site/content/COMMON/footer/footer.content")
+
+</body>
+
+</html>

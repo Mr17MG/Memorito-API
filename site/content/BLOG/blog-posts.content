@@ -1,0 +1,35 @@
+<div class="container">
+    <div class="row">
+
+        <div class="col-md-8 blog-posts">
+            <div class="row">
+                <div class="col-md-12">
+
+                    @input("site/content/BLOG/posts/items.content")
+
+                </div>
+                <!-- /.col-md-12 -->
+
+                <div class="col-md-12">
+                    <!-- <ul class="pages">
+                        @input("site/content/BLOG/pagination.content")
+                    </ul> -->
+                </div>
+                <!-- /.col-md-12 -->
+
+            </div>
+            <!-- /.row -->
+        </div>
+        <!-- /.col-md-8 -->
+
+        <div class="col-md-4">
+
+            @input("site/content/BLOG/side-bar.content")
+
+        </div>
+        <!-- /.col-md-4 -->
+
+    </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->

@@ -1,0 +1,24 @@
+<div class="item">
+    <div class="thumb-post">
+        <div class="overlay">
+            <div class="overlay-inner">
+                <div class="portfolio-infos">
+                    <span lang="en" class="meta-category">Minimal and fast Identity</span>
+                    <h3 lang="en" class="portfolio-title"><a href="javascript:void(0);">Built-in file manager</a></h3>
+                    <span lang="fa" class="meta-category">تصاویر موبایل</span>
+                    <h3 lang="fa" class="portfolio-title"><a href="javascript:void(0);">مدیریت فایل درون برنامه‌ای</a></h3>
+                </div>
+                <div class="portfolio-expand">
+                    <a class="fancybox" lang="en" href="../../../../public/images/Screenshots/English/09-Memorito-6.1inch.jpg" title="Built-in file manager">
+                        <i class="fa fa-expand"></i>
+                    </a>
+                    <a class="fancybox" lang="fa" href="../../../../public/images/Screenshots/Persian/09-Memorito-6.1inch.jpg" title="مدیریت فایل درون برنامه‌ای">
+                        <i class="fa fa-expand"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <img lang="en" src="../../../../public/images/Screenshots/English/09-Memorito-6.1inch.jpg" class="img-rounded" alt="Built-in file manager">
+        <img lang="fa" src="../../../../public/images/Screenshots/Persian/09-Memorito-6.1inch.jpg" class="img-rounded" alt="مدیریت فایل درون برنامه‌ای">
+    </div>
+</div> <!-- /.item -->

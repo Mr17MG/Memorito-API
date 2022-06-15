@@ -1,0 +1,30 @@
+<section class="light-content services">
+    <div class="container">
+
+        <div class="row">
+
+            <!-- Linux  -->
+            @input("site/content/HOME/download/linux.content")
+            <!-- Windows -->
+            @input("site/content/HOME/download/windows.content")
+            <!-- Android -->
+            @input("site/content/HOME/download/android.content")
+
+        </div>
+
+        <div class="row">
+
+            <!-- Mac OS  -->
+            @input("site/content/HOME/download/macos.content")
+            <!-- Web App -->
+            @input("site/content/HOME/download/webapp.content")
+            <!-- IOS -->
+            @input("site/content/HOME/download/ios.content")
+
+        </div>
+        <!-- /.row -->
+
+    </div>
+    <!-- /.container -->
+</section>
+<!-- /.services -->

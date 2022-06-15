@@ -1,0 +1,14 @@
+{
+    "name": "vendor/mvc",
+    "description": "autoload classes in memorito project",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "app/Core",
+            "Base\\": "app/Base",
+            "Api\\": "app/Api"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}

@@ -1,0 +1,13 @@
+<div class="col-md-4 col-sm-4">
+    <div class="service-box-wrap">
+        <div class="service-icon-wrap">
+            <i class="fa fa-apple fa-2x"></i>
+        </div> <!-- /.service-icon-wrap -->
+        <div class="service-cnt-wrap">
+            <h3 lang="en"class="service-title">IOS</h3>
+            <h3 lang="fa"class="service-title">آی‌اواس</h3>
+            <a lang="en" rel="nofollow" href="javascript:void(0);">Coming Soon ...</a>
+            <a lang="fa" rel="nofollow" href="javascript:void(0);">به زودی...</a>
+        </div> <!-- /.service-cnt-wrap -->
+    </div> <!-- /.service-box-wrap -->
+</div> <!-- /.col-md-4 -->

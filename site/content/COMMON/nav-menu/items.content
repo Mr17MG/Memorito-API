@@ -1,0 +1,16 @@
+<li lang="en"><a href="index">Home</a></li>
+<li lang="en"><a href="blog">Blog</a></li>
+<!-- <li lang="en"><a href="portfolio.html">Gallery</a></li> -->
+<li lang="fa"><a href="index">صفحه اصلی</a></li>
+<li lang="fa"><a href="blog">بلاگ</a></li>
+<!-- <li lang="fa"><a href="portfolio.html">گالری</a></li> -->
+
+<li>
+    <a href="javascript:void(0);">زبان / Language</a>
+    <ul>
+        <li><a href="javascript:void(0);" hreflang="fa" onclick="document.body.lang = 'fa'">فارسی</a></li>
+        <li><a href="javascript:void(0);" hreflang="en" onclick="document.body.lang = 'en'">English</a></li>
+    </ul>
+</li>
+<!-- <li><a href="archives.html">Archives</a></li> -->
+<!-- <li><a href="contact.html">Contact</a></li> -->
