@@ -1,0 +1,24 @@
+<div class="item">
+    <div class="thumb-post">
+        <div class="overlay">
+            <div class="overlay-inner">
+                <div class="portfolio-infos">
+                    <span lang="en" class="meta-category">Mobile Screenshots</span>
+                    <h3 lang="en" class="portfolio-title"><a href="javascript:void(0);">Add every where you want</a></h3>
+                    <span lang="fa" class="meta-category">تصاویر موبایل</span>
+                    <h3 lang="fa" class="portfolio-title"><a href="javascript:void(0);">هرجایی که دوست داری اضافه کن</a></h3>
+                </div>
+                <div class="portfolio-expand">
+                    <a class="fancybox" lang="en" href="../../../../public/images/Screenshots/English/07-Memorito-6.1inch.jpg" title="Add every where you want">
+                        <i class="fa fa-expand"></i>
+                    </a>
+                    <a class="fancybox" lang="fa" href="../../../../public/images/Screenshots/Persian/07-Memorito-6.1inch.jpg" title="هرجایی که دوست داری اضافه کن">
+                        <i class="fa fa-expand"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <img lang="en" src="../../../../public/images/Screenshots/English/07-Memorito-6.1inch.jpg" class="img-rounded" alt="Add every where you want">
+        <img lang="fa" src="../../../../public/images/Screenshots/Persian/07-Memorito-6.1inch.jpg" class="img-rounded" alt="هرجایی که دوست داری اضافه کن">
+    </div>
+</div> <!-- /.item -->

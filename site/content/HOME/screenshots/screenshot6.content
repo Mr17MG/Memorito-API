@@ -1,0 +1,24 @@
+<div class="item">
+    <div class="thumb-post">
+        <div class="overlay">
+            <div class="overlay-inner">
+                <div class="portfolio-infos">
+                    <span lang="en" class="meta-category">Mobile Screenshots</span>
+                    <h3 lang="en" class="portfolio-title"><a href="javascript:void(0);">Quick Process</a></h3>
+                    <span lang="fa" class="meta-category">تصاویر موبایل</span>
+                    <h3 lang="fa" class="portfolio-title"><a href="javascript:void(0);">پردازش سریع</a></h3>
+                </div>
+                <div class="portfolio-expand">
+                    <a class="fancybox" lang="en" href="../../../../public/images/Screenshots/English/06-Memorito-6.1inch.jpg" title="Quick Process">
+                        <i class="fa fa-expand"></i>
+                    </a>
+                    <a class="fancybox" lang="fa" href="../../../../public/images/Screenshots/Persian/06-Memorito-6.1inch.jpg" title="پردازش سریع">
+                        <i class="fa fa-expand"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <img lang="en" src="../../../../public/images/Screenshots/English/06-Memorito-6.1inch.jpg" class="img-rounded" alt="Quick Process">
+        <img lang="fa" src="../../../../public/images/Screenshots/Persian/06-Memorito-6.1inch.jpg" class="img-rounded" alt="پردازش سریع">
+    </div>
+</div> <!-- /.item -->

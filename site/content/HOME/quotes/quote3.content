@@ -1,0 +1,8 @@
+<div class="testimonial">
+    <div class="testimonial-content">
+        <span lang="en" class="testimonial-author">Ali</span>
+        <p lang="en" class="testimonial-description">Excellent working with Memorito. Super organized, simple and beautiful user interface.</p>
+        <span lang="fa" class="testimonial-author">علی</span>
+        <p lang="fa" style="direction: rtl;" class="testimonial-description">کار با Memorito بسیار عالیه. فوق‌العاده سازمان یافته ، رابط کاربری ساده و زیبا.</p>
+    </div>
+</div>

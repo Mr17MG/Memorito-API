@@ -1,0 +1,11 @@
+<div class="last-post clearfix">
+    <div class="thumb pull-left">
+        <a href="javascript:void(0);"><img class="img-thumbnail img-round" src="../../../../public/images/includes/blogthumb3.png" alt=""></a>
+    </div>
+    <div class="content">
+        <span lang="en" ><a href="javascript:void(0);">16 August 2021</a></span>
+        <span lang="fa" ><a href="javascript:void(0);">۲۵ مرداد ۱۴۰۰</a></span>
+        <h4 lang="en"><a href="post?p=android">How to install Memorito on Android</a></h4>
+        <h4 lang="fa"><a href="post?p=android">چطور مموریتو را بر روی اندروید نصب کنیم؟</a></h4>
+    </div>
+</div> <!-- /.last-post -->
