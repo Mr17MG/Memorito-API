@@ -1,2 +1,0 @@
-<!-- Introduction in Home Page -->
-@input("site/content/POST/haeder.content") @input("site/content/POST/content.content")
