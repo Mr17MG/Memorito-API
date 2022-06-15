@@ -1,1 +1,2 @@
 public/* linguist-vendored
+*.php linguist-detectable=true
